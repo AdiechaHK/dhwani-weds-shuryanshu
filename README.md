@@ -4,7 +4,7 @@ Wedding - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 ### Author
 Adiecha Harikrushna Vasantbhai <adiechahari@gmail.com>
-- Proud Software Engineer [India]
+● Proud Software Engineer [India]
 
 
 ### Special Credit
