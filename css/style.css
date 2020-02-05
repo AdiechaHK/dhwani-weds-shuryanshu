@@ -355,7 +355,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 #fh5co-counter,
 #fh5co-event {
-  height: 850px;
+  /*height: 850px;*/
   float: left;
 }
 #fh5co-counter .display-t,
@@ -1845,6 +1845,7 @@ form label {
 
 .js .animate-box {
   opacity: 0;
+  margin-bottom: 20px;
 }
 
 /*# sourceMappingURL=style.css.map */
@@ -1861,4 +1862,8 @@ form label {
 #fh5co-testimonial .fh5co-heading h2 {
   font-family: 'Shrikhand', cursive;
   font-weight: 100;
+}
+
+#page .guj {
+  font-family: 'Baloo Bhai', cursive;
 }
